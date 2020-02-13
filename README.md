@@ -122,9 +122,9 @@ Trying to explain mathematic notation, by etymology or mnemonics
    
 
  - <img src="https://render.githubusercontent.com/render/math?math=%5cPhi">,<img src="https://render.githubusercontent.com/render/math?math=%5cphi"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5cvarphi">)
-   - ypsilon, y
+   - phi, f
    - <img src="https://render.githubusercontent.com/render/math?math=%5cPhi(x)">is the cumulative distribution function of the *standardized* normal distribution
-   - <img src="https://render.githubusercontent.com/render/math?math=phi">, the golden ration
+   - <img src="https://render.githubusercontent.com/render/math?math=%5cphi">, the golden ration
    - an angle in spherical coordinates
  
  - <img src="https://render.githubusercontent.com/render/math?math=X">,<img src="https://render.githubusercontent.com/render/math?math=%5cchi">
