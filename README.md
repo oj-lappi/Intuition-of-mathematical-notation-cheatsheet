@@ -43,7 +43,7 @@ Trying to explain mathematic notation, by etymology or mnemonics
     - <img src="https://render.githubusercontent.com/render/math?math=%5ceta"> (or <img src="https://render.githubusercontent.com/render/math?math=%5calpha">) is the learning rate in gradient descent back propagation
     - <img src="https://render.githubusercontent.com/render/math?math=%5ceta"> is a linear predictor of a generalized linear model (<img src="https://render.githubusercontent.com/render/math?math=%5ceta=%5cX%5cbeta">)
     
- - <img src="https://render.githubusercontent.com/render/math?math=%5cTheta">,<img src="https://render.githubusercontent.com/render/math?math=%5ctheta"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5ctheta">)
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cTheta">,<img src="https://render.githubusercontent.com/render/math?math=%5ctheta"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5cvartheta">)
  
     - theta, t or th (t huh)
     - a **t**rigonometric unknown variable
