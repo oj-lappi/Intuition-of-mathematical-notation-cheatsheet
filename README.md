@@ -127,7 +127,7 @@ Trying to explain mathematic notation, by etymology or mnemonics
    - <img src="https://render.githubusercontent.com/render/math?math=phi">, the golden ration
    - an angle in spherical coordinates
  
- - <img src="https://render.githubusercontent.com/render/math?math=%5cChi">,<img src="https://render.githubusercontent.com/render/math?math=%5cchi">
+ - <img src="https://render.githubusercontent.com/render/math?math=X">,<img src="https://render.githubusercontent.com/render/math?math=%5cchi">
    - chi, kh
    - A chi or chi-squared distribution
    - chi denotes a **ch**romatic number
