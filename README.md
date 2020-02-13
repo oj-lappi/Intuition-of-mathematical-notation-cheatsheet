@@ -24,7 +24,6 @@ Trying to explain mathematic notation, by etymology or mnemonics
  
     - delta, d
     - delta is used for **d**ifferences, greek: diaphora (<img src="https://render.githubusercontent.com/render/math?math=%5cdelta%5ciota%5calpha%5cvarphi o%5crho%5calpha">)
-    - the modern day pronunciation of delta is "th", as in "then", "that"
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cE">,<img src="https://render.githubusercontent.com/render/math?math=%5cvarepsilon"> (lunate <img src="https://render.githubusercontent.com/render/math?math=%5cepsilon"> )
  
@@ -64,13 +63,12 @@ Trying to explain mathematic notation, by etymology or mnemonics
     - the cursive kappa looks a lot like a chi
     - kappa denotes the **k**onnectivity of a graph and the **k**urvature of a curve
     - Cohens kappa is a statistical measure of **k**onsensus among a sample
-    - Can sometimes denote a **k**ardinal in set theory
+    - can sometimes denote a **k**ardinal in set theory
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cLambda">,<img src="https://render.githubusercontent.com/render/math?math=%5clambda">
  
     - lambda, l
     - in group theory, a **L**attice is denoted by <img src="https://render.githubusercontent.com/render/math?math=%5cLambda">
-    - in evolutional strategy, and the theory of evolutionary algorithms, lambda is the number of new mutants in a generation
     - lambda is a symbol for an anonymous function ( a *lambda expression*), from lambda calculus
     - the lambda in lambda calculus is just an arbitrary symbol (The story is, Church responded "eeny, meeny, miny moe" to a letter asking for the origin of the symbol)
     - eigenvalues are denoted lambda (possibly due to **l**inear transformation (?))
@@ -82,21 +80,20 @@ Trying to explain mathematic notation, by etymology or mnemonics
     - computer people like to use mu to mean small because of this micro association
     - micron, a m*icrometer
     - the **m**ean of a population (underlying mean)
-    - in the theory of evolutionary algorithms, mu is the current population size in a generation
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cN">,<img src="https://render.githubusercontent.com/render/math?math=%5cnu">
  
     - nu, n
-    - in physics nu denotes frequency
-    - degrees of freedom in statistics (I assume because n = a size)
+    - in physics nu can denote frequency
+    - degrees of freedom in statistics (I assume because n = a size, or because nu looks like v for variable)
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cXi">,<img src="https://render.githubusercontent.com/render/math?math=%5cxi">
  
     - xi, x
-    - Sometimes used for stochastic variables
+    - sometimes used for stochastic variables
     - Riemanns xi function is a variant of Riemanns zeta function (I think Riemann may have gone "eeny meeny miny moe" as well)
     - A pareto distributions shape is denoted by xi
-    - It is objectively the coolest looking greek letter
+    - it is objectively the coolest looking greek letter
    
  - <img src="https://render.githubusercontent.com/render/math?math=%5cO">,<img src="https://render.githubusercontent.com/render/math?math=o"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5comicron">)
    - omicron, o
