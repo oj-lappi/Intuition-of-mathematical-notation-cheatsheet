@@ -106,4 +106,42 @@ Trying to explain mathematic notation, by etymology or mnemonics
  - <img src="https://render.githubusercontent.com/render/math?math=%5cPi">,<img src="https://render.githubusercontent.com/render/math?math=pi"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5varpi">, also called pomega)
    - pi, p
    - the circle constant of course from **p**erimeter, greek perimetros (<img src="https://render.githubusercontent.com/render/math?math=%5cpi%5cepsilon%5crho%5ciota%5cmu%5cepsilon%5ctau%5crho o%5cvarsigma">)
-   - <img src="https://render.githubusercontent.com/render/math?math=%5cPi"> stands for **p**roduct, as in <img src="https://render.githubusercontent.com/render/math?math=%5cprod_{i=1}^{n}x_i">: the **p**roduct of the variables <img src="https://render.githubusercontent.com/render/math?math=x_0"> to <img src="https://render.githubusercontent.com/render/math?math=x_n">
+   - <img src="https://render.githubusercontent.com/render/math?math=%5cPi"> stands for **P**roduct, as in <img src="https://render.githubusercontent.com/render/math?math=%5cprod_{i=1}^{n}x_i">: the **P**roduct of the variables <img src="https://render.githubusercontent.com/render/math?math=x_0"> to <img src="https://render.githubusercontent.com/render/math?math=x_n">
+
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cSigma">,<img src="https://render.githubusercontent.com/render/math?math=sigma"> (endword <img src="https://render.githubusercontent.com/render/math?math=%5varsigma">, lunar <img src="https://render.githubusercontent.com/render/math?math=%5c">)
+   - sigma, s
+   - a **S**um as in <img src="https://render.githubusercontent.com/render/math?math=%5csum_{i=1}^{n}x_i">: the **S**um of the variables <img src="https://render.githubusercontent.com/render/math?math=x_0"> to <img src="https://render.githubusercontent.com/render/math?math=x_n">
+   - the **s**tandard deviation
+   - **s**elect in relational algebra (theoretic foundation of relational databases)
+
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cTau">,<img src="https://render.githubusercontent.com/render/math?math=tau">
+   - tau, t
+   - some people think the circle constant is wrong, and use a constant that is twice as big. This constant is denoted tau (I think) because the one leg represents one radius, vs the 2 radii in the 2-legged pi 
+
+
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cUpsilon">,<img src="https://render.githubusercontent.com/render/math?math=upsilon">
+   - ypsilon, y
+   - the lower case ypsilon looks like a lowercase nu (and that's the most interesting thing about it)
+   
+
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cPhi">,<img src="https://render.githubusercontent.com/render/math?math=%5cphi"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5cvarphi">)
+   - ypsilon, y
+   - <img src="https://render.githubusercontent.com/render/math?math=%5cPhi(x)">is the cumulative distribution function of the *standardized* normal distribution
+   - <img src="https://render.githubusercontent.com/render/math?math=phi">, the golden ration
+   - an angle in spherical coordinates
+ 
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cXi">,<img src="https://render.githubusercontent.com/render/math?math=%5cxi">
+   - chi, kh
+   - A chi or chi-squared distribution
+   - chi denotes a **ch**romatic number
+   - A Fourier transform sometimes
+   
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cPsi">,<img src="https://render.githubusercontent.com/render/math?math=%5cpsi">
+   - psi, p (modern f)
+   - the supergolden ratio https://en.wikipedia.org/wiki/Supergolden_ratio
+   
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cOmega">,<img src="https://render.githubusercontent.com/render/math?math=%5comega">
+   - omega, o, å
+   - the last letter
+   - in set theory, the smallest infinite ordinal number
+   - in asymptotic notation, the greatest lower bound, (the best case) I suppose because it opens up downwards?
