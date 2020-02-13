@@ -111,12 +111,12 @@ Trying to explain mathematic notation, by etymology or mnemonics
    - the **s**tandard deviation
    - **s**elect in relational algebra (theoretic foundation of relational databases)
 
- - <img src="https://render.githubusercontent.com/render/math?math=%5cTau">,<img src="https://render.githubusercontent.com/render/math?math=tau">
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cTau">,<img src="https://render.githubusercontent.com/render/math?math=%5ctau">
    - tau, t
    - some people think the circle constant is wrong, and use a constant that is twice as big. This constant is denoted tau (I think) because the one leg represents one radius, vs the 2 radii in the 2-legged pi 
 
 
- - <img src="https://render.githubusercontent.com/render/math?math=%5cUpsilon">,<img src="https://render.githubusercontent.com/render/math?math=upsilon">
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cUpsilon">,<img src="https://render.githubusercontent.com/render/math?math=%5cupsilon">
    - ypsilon, y
    - the lower case ypsilon looks like a lowercase nu (and that's the most interesting thing about it)
    
