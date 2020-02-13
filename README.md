@@ -100,7 +100,7 @@ Trying to explain mathematic notation, by etymology or mnemonics
    - it's literally just an o
    - Big O in asymptotic notation
 
- - <img src="https://render.githubusercontent.com/render/math?math=%5cPi">,<img src="https://render.githubusercontent.com/render/math?math=pi"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5cvarpi">, also called pomega)
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cPi">,<img src="https://render.githubusercontent.com/render/math?math=%5cpi"> (cursive <img src="https://render.githubusercontent.com/render/math?math=%5cvarpi">, also called pomega)
    - pi, p
    - the circle constant of course from **p**erimeter, greek perimetros (<img src="https://render.githubusercontent.com/render/math?math=%5cpi%5cepsilon%5crho%5ciota%5cmu%5cepsilon%5ctau%5crho o%5cvarsigma">)
    - <img src="https://render.githubusercontent.com/render/math?math=%5cPi"> stands for **P**roduct, as in <img src="https://render.githubusercontent.com/render/math?math=%5cprod_{i=1}^{n}x_i">: the **P**roduct of the variables <img src="https://render.githubusercontent.com/render/math?math=x_0"> to <img src="https://render.githubusercontent.com/render/math?math=x_n">
