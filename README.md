@@ -17,36 +17,6 @@ Some notes on maths notation
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cGamma">,<img src="https://render.githubusercontent.com/render/math?math=%5cgamma">
  
-Code
-Issues 0
-Pull requests 0
-Actions
-Projects 0
-Wiki
-Security
-Insights
-Settings
-Intuition-of-mathematical-notation-cheatsheet/
-# Intuition-of-mathematical-notation-cheatsheet
-Trying to explain mathematic notation, by etymology or mnemonics
-
-# Greek letters
-
- - <img src="https://render.githubusercontent.com/render/math?math=%5cAlpha">,<img src="https://render.githubusercontent.com/render/math?math=%5calpha">
- 
-    - alpha, a
-    - since alpha is the first letter, it is used to denote things which are ordinally first
-      - like type I errors (false positives)
-    - used for angles, greek: ankylos (<img src="https://render.githubusercontent.com/render/math?math=%5calpha%5cgamma%5ckappa%5cupsilon%5clambda o%5cvarsigma">)), or just the first angle in a polygon
-    
- - <img src="https://render.githubusercontent.com/render/math?math=%5cBeta">,<img src="https://render.githubusercontent.com/render/math?math=%5cbeta">
- 
-    - beta, b
-    - since beta is the second letter, it is used to denote things which are ordinally second
-      - like type II errors (false negatives)
-    
- - <img src="https://render.githubusercontent.com/render/math?math=%5cGamma">,<img src="https://render.githubusercontent.com/render/math?math=%5cgamma">
- 
     - gamma, g or ng
     
  - <img src="https://render.githubusercontent.com/render/math?math=%5cDelta">,<img src="https://render.githubusercontent.com/render/math?math=%5cdelta">
