@@ -24,7 +24,7 @@ Some notes on maths notation
     - delta, d
     - delta is used for **d**ifferences, greek: diaphora (<img src="https://render.githubusercontent.com/render/math?math=%5cdelta%5ciota%5calpha%5cvarphi o%5crho%5calpha">)
     
- - <img src="https://render.githubusercontent.com/render/math?math=%5cE">,<img src="https://render.githubusercontent.com/render/math?math=%5cvarepsilon"> (lunate <img src="https://Intuition-of-mathematical-notation-cheatsheetrender.githubusercontent.com/render/math?math=%5cepsilon"> )
+ - <img src="https://render.githubusercontent.com/render/math?math=%5cE">,<img src="https://render.githubusercontent.com/render/math?math=%5cvarepsilon"> (lunate <img src="https://render.githubusercontent.com/render/math?math=%5cepsilon"> )
  
     - epsilon, e (psilon means simple, so epsilon means "simple e")
     - the set notation,<img src="https://render.githubusercontent.com/render/math?math=%5cin">, is actually a lunate epsilon, from the greek word to be, **e**sti (<img src="https://render.githubusercontent.com/render/math?math=%5cvarepsilon%5csigma%5ctau%5ciota">)
