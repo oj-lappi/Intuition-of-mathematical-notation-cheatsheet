@@ -1,5 +1,25 @@
 Some notes on maths notation
 
+# Special operators useful in computer science
+
+ ### The indicator function, <img src="https://render.githubusercontent.com/render/math?math=%5cboldsymbol{1}_{condition}">
+ 
+ The indicator function, for conditional expressions. E.g.  <img src="https://render.githubusercontent.com/render/math?math=f(x)=%5cboldsymbol{1}_{x>0}%5c,x">
+ has value x if x is positive, else 0
+ 
+ ### Element-wise multiplication and division
+ 
+ Supposed to be used for matrices, but can be abused for any indexed set, e.g. an array or map.
+ 
+ <img src="https://render.githubusercontent.com/render/math?math=%5codot"> is the element-wise multiplication operator, the product <img src="https://render.githubusercontent.com/render/math?math=%5cboldsymbol{A}%5codot%5cboldsymbol{B}"> is also called the Hadamard product. In latex, the symbol is \odot.
+ 
+ Example of element-wise multiplication (with tuples, sorry math people):
+ 
+ <img src="https://render.githubusercontent.com/render/math?math=(1,2,3)%5c,%5codot%5c,(2,3,4)=(2,6,12)">
+ 
+  <img src="https://render.githubusercontent.com/render/math?math=%5coslash"> is the element-wise division operator, e.g. <img src="https://render.githubusercontent.com/render/math?math=%5cboldsymbol{A}%5coslash%5cboldsymbol{B}">. Works just like the mul version. In latex, the symbol is \oslash.
+ 
+
 # Greek letters
 
  - <img src="https://render.githubusercontent.com/render/math?math=%5cAlpha">,<img src="https://render.githubusercontent.com/render/math?math=%5calpha">
