@@ -1,5 +1,14 @@
 Some notes on maths notation
 
+# Some notation for defining functions
+
+If you wish to deemphasize the value of the argument of a function (or its name, say x), you can use an interpunct instead:
+
+  <img src="https://render.githubusercontent.com/render/math?math=f(%5cdot)">
+  
+The interpunct is \cdot in LaTex.
+
+
 # Special operators useful in computer science
 
  ### The indicator function, <img src="https://render.githubusercontent.com/render/math?math=%5cboldsymbol{1}_{condition}">
