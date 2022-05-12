@@ -4,7 +4,7 @@ Some notes on maths notation
 
 If you wish to deemphasize the value of the argument of a function (or its name, say x), you can use an interpunct instead:
 
-  <img src="https://render.githubusercontent.com/render/math?math=f(%5ccdot)">
+  <img src="https://render.githubusercontent.com/render/math?math=f(%5ccdot)=a(%5ccdot)+b">
   
 The interpunct is \cdot in LaTex.
 
